@@ -88,11 +88,4 @@ MIT License
 
 ---
 
-## 🙋‍♂️ Feedback & Contributions
-
-Suggestions, improvements, and pull requests are welcome!  
-Open an issue or fork the repo if you'd like to contribute.
-
----
-
 **Enjoy playing!**
